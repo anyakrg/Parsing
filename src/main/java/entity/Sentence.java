@@ -1,5 +1,5 @@
 package entity;
 
-public class Sentence {
+public class Sentence extends Paragraph {
 
 }
